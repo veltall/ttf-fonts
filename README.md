@@ -1,6 +1,6 @@
-#ttf-monda
+# ttf-monda
 
-<img src="./res/preview.png" alt="Monda preview" width="650px" />
+<p><img src="./res/preview.png" alt="Monda preview" width="650px" /></p>
 
 ### Manual Installation
 Download/extract the tarball 
