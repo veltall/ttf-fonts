@@ -1,3 +1,3 @@
 #ttf-monda
 
-![Google Font specimen page for TTF Monda]()
+![Preview](https://raw.githubusercontent.com/veltall/ttf-monda/master/monda.png)
