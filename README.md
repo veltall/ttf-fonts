@@ -1,6 +1,6 @@
 #ttf-monda
 
-![Preview](/res/monda.png){:height="60%" width="60%"}
+<img src="./res/preview.png" alt="Monda preview" width="650px" />
 
 ### Manual Installation
 Download/extract the tarball 
